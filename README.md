@@ -3,13 +3,14 @@
 
 <br>
 
-- 🎃 I'm currently building my problem-solving, communication and interview skills through: 
+- 🎃 I'm currently building my problem-solving, communication and interview skills through Cajigo.
+- ☁️ Learning about Cloud COmputing through the [She Builds CloudUp Cloud Practitioner program] (https://awsshebuildscloudupcpe.splashthat.com/).
 - 💃 Currently I'm a mentee at [Cajigo] (http://www.structur3dpeople.co.uk/cajigo/)
 - 🔭 I’m currently working on my problem-solving skills and Python portfolio.
 - 🌱 I’m currently learning JavaScript, more advanced Python concepts and Cloud Computing.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with improving the quality of my code, testing code.
-- 💬 Ask me about problem-solving with Python, transitioning into tech, online learning, become more organised.
+- 💬 Ask me about problem-solving with Python, transitioning into tech, and becoming more organised.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love singing while I drive but I'm a terrible singer!
 
