@@ -20,15 +20,26 @@
 <br>
 
 ### Connect with me: <a href="https://www.linkedin.com/in/amartinarias/">
-<img src="images\linkedin.png" alt="alternate text"
+<img src="images\linkedin.png" alt="LinkedIn Icon"
 width="30px" height="height">
 </a> 
-
 <a href="https://twitter.com/alimartinarias">
-<img src="images\twitter.png" alt="alternate text"
+<img src="images\twitter.png" alt="Twitter Icon"
 width="30px" height="height">
 </a>
+<br>
 
+### Technical Skills:
+
+
+<br>
+
+### Education:
+<a href="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
+<img src="https://dev.to/envoy_/150-badges-for-github-pnk#contents" alt="CodeWars Badge"
+width="30px" height="height">
+
+https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amartinarias&layout=compact)](https://github.com/amartinarias)
