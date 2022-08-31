@@ -1,4 +1,4 @@
-### Hi there, my name is Alice and I transitioned into Technology in October 2021! 👋
+### Hi there, my name is Alice and I transitioned into Tech in October 2021! 👋
 
 
 <br>
