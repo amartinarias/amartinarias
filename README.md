@@ -27,6 +27,7 @@ width="30px" height="height">
 <img src="images\twitter.png" alt="Twitter Icon"
 width="30px" height="height">
 </a>
+
 <br>
 
 ### 💻 Technical Skills:
@@ -43,7 +44,7 @@ BSc Computing and IT Student [The Open University](https://www.open.ac.uk/)
 
 <br>
 
-##  📐 Project Links
+###  📐 Project Links
 
 -  [Click Me](https://github.com/recapify) 
 -  [Click Me](https://github.com/Villo-Design) 
