@@ -6,8 +6,7 @@
 🎃 I'm currently building my problem-solving, communication and interview skills through:
 
 <br>
-
-- ☁️ I'm currently learning Cloud Computing through the [She Builds CloudUp Cloud Practitioner program] (https://awsshebuildscloudupcpe.splashthat.com/).
+- ☁️ I'm currently learning Cloud Computing through the [Cloud Practitioner program] (https://awsshebuildscloudupcpe.splashthat.com/).
 - 💃 I'm currently a mentee at [Cajigo] (http://www.structur3dpeople.co.uk/cajigo/)
 - 🔭 I’m currently working on my problem-solving skills and Python portfolio.
 - 🌱 I’m currently learning JavaScript, more advanced Python concepts and Cloud Computing.
@@ -16,8 +15,8 @@
 - 💬 Ask me about problem-solving with Python, transitioning into tech, and becoming more organised.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love singing whilst driving but I'm a terrible singer!
-
 <br>
+
 ### Connect with me: <a href="https://www.linkedin.com/in/amartinarias/">
 <img src="images\linkedin.png" alt="LinkedIn Icon"
 width="30px" height="height">
@@ -36,6 +35,7 @@ width="30px" height="height">
 - Software Engineering Nanodegree with [Code First Girls](https://codefirstgirls.org.uk/courses/nanodegree/)
 - Software Engineering Bootcamp with [TechUP, Durham University](https://techupwomen.org/)
 - BSc Computing and IT Student [The Open University](https://www.open.ac.uk/)
+- Cloud Computing through [She Builds CloudUp Cloud Practitioner program] (https://awsshebuildscloudupcpe.splashthat.com/).
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A) 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
