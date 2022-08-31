@@ -4,8 +4,8 @@
 <br>
 
 🎃 I'm currently building my problem-solving, communication and interview skills through:
-
 <br>
+
 - ☁️ I'm currently learning Cloud Computing through the [Cloud Practitioner program] (https://awsshebuildscloudupcpe.splashthat.com/).
 - 💃 I'm currently a mentee at [Cajigo] (http://www.structur3dpeople.co.uk/cajigo/)
 - 🔭 I’m currently working on my problem-solving skills and Python portfolio.
