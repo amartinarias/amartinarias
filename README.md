@@ -3,13 +3,12 @@
 
 <br>
 
-🎃 I'm currently building my problem-solving, communication and interview skills through:
+🎃 I'm currently building my problem-solving, communication and JS skills through:
 <br>
 
-- ☁️ I'm currently learning Cloud Computing through the [Cloud Practitioner program] (https://awsshebuildscloudupcpe.splashthat.com/).
 - 💃 I'm currently a mentee at [Cajigo] (http://www.structur3dpeople.co.uk/cajigo/)
 - 🔭 I’m currently working on my problem-solving skills and portfolio.
-- 🌱 I’m currently learning JavaScript, Vue JS and Cloud Computing.
+- 🌱 I’m currently learning JavaScript and Vue JS.
 - 👯 I’m looking to collaborate on projects and pair-programming.
 - 🤔 I’m looking for help with improving the quality of my code, refactoring and testing code.
 - 💬 Ask me about problem-solving with Python, transitioning into tech, and becoming more organised.
@@ -21,10 +20,6 @@
 <img src="images\linkedin.png" alt="LinkedIn Icon"
 width="30px" height="height">
 </a> 
-<a href="https://twitter.com/alimartinarias">
-<img src="images\twitter.png" alt="Twitter Icon"
-width="30px" height="height">
-</a>
 <br>
 
 ### 💻 Technical Skills:
