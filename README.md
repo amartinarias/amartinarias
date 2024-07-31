@@ -5,7 +5,7 @@
 
 <br>
 
-- 💃 I'm currently a Junior Software Developer.
+- 💃 I'm currently a Software Developer.
 - 🔭 I’m currently working on learning about other fields within tech.
 - 🌱 I’m currently learning Vue 3 and a bit about NLP and robotics.
 - 👯 I’m looking to collaborate on projects and pair programming.
