@@ -26,9 +26,9 @@ width="30px" height="height">
 <br>
 
 ### 📚 Education:
+- Certificate of Higher Education in Computing and IT 2020-2024 Distinction with [The Open University](https://www.open.ac.uk/)
 - Software Engineering Nanodegree with [Code First Girls](https://codefirstgirls.org.uk/courses/nanodegree/)
 - Software Engineering Bootcamp with [TechUP, Durham University](https://techupwomen.org/)
-- BSc Computing and IT Student [The Open University](https://www.open.ac.uk/)
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A) 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
