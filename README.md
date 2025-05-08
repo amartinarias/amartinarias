@@ -1,4 +1,4 @@
-### Hi there, my name is Alice and I transitioned into Tech in October 2021! 👋
+### Hi there, my name is Alice and I'm a Software Developer! 👋
 
 
 <br>
@@ -7,7 +7,7 @@
 
 - 💃 I'm currently a Software Developer.
 - 🔭 I’m currently working on learning about other fields within tech.
-- 🌱 I’m currently learning Vue 3 and a bit about NLP and robotics.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on projects and pair programming.
 - 🤔 I’m looking for help with improving the quality of my code, refactoring and testing code.
 - 💬 Ask me about transitioning into tech and learning to code.
