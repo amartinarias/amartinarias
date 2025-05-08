@@ -15,8 +15,10 @@
 - ⚡ Fun fact: I love singing whilst driving but I'm a terrible singer!
 <br>
 
-### Connect with me: <a href="https://www.linkedin.com/in/amartinarias/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Icon" width="30px" height="30px">
+### Connect with me: 
+<a href="https://www.linkedin.com/in/amartinarias/">
+<img src="images\linkedin.png" alt="LinkedIn Icon"
+width="30px" height="height">
 </a>
 <br>
 
