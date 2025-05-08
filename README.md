@@ -26,7 +26,7 @@ width="30px" height="height">
 <br>
 
 ### 📚 Education:
-- Certificate of Higher Education in Computing and IT 2020-2024 Distinction with [The Open University](https://www.open.ac.uk/)
+- Certificate of Higher Education in Computing and IT _2020-2024 Distinction_ with [The Open University](https://www.open.ac.uk/)
 - Software Engineering Nanodegree with [Code First Girls](https://codefirstgirls.org.uk/courses/nanodegree/)
 - Software Engineering Bootcamp with [TechUP, Durham University](https://techupwomen.org/)
 
