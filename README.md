@@ -20,7 +20,7 @@
 width="30px" height="height">
 </a>
 <a href="https://www.amartinarias.com">
-<img align="left" alt="globe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<img  alt="globe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <br>
 
 ### 💻 Technical Skills:
